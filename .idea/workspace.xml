@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcd29471-1ec2-492a-abb0-73ba36480a8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ecf460bf-4283-4159-8816-56f07474abd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/todoapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todoapp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasks/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,39 +22,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1Y54SZ9rzDHDWCwJbHkU5P8E3zt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1aJ1cKXF6A0Th3CR098zRrESLro" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bcd29471-1ec2-492a-abb0-73ba36480a8d" name="Default Changelist" comment="" />
-      <created>1582219122157</created>
+      <changelist id="ecf460bf-4283-4159-8816-56f07474abd2" name="Default Changelist" comment="" />
+      <created>1586438964475</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582219122157</updated>
+      <updated>1586438964475</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582221508678">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="444" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587051520159">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
-    <state x="466" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.825@0.23.1440.825" timestamp="1582221508678" />
-    <state x="229" y="74" key="SettingsEditor" timestamp="1582219834516">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="444" y="249" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.833@0.23.1440.833" timestamp="1587051520159" />
+    <state x="413" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1587047675362">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
-    <state x="229" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1582219834516" />
+    <state x="413" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1586526744687" />
+    <state x="413" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.833@0.23.1440.833" timestamp="1587047675362" />
   </component>
 </project>

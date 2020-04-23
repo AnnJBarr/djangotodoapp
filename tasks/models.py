@@ -7,3 +7,7 @@ class Task(models.Model):
     created_date = models.DateTimeField(auto_now=True)
     due_date = models.DateTimeField()
     complete = models.BooleanField()
+
+    def __str__(self):
+        return self.task_text
+
